@@ -1,4 +1,6 @@
-<img src="https://media.licdn.com/dms/image/v2/C5612AQFhHiNiAlhKUw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1540287996281?e=2147483647&v=beta&t=6wNzBe0pqEKiVlryJvrZqeRGoLwUFxQiT95-1krWwn0" alt="Profile Banner" width="100%" />
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/C5612AQFhHiNiAlhKUw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1540287996281?e=2147483647&v=beta&t=6wNzBe0pqEKiVlryJvrZqeRGoLwUFxQiT95-1krWwn0" alt="Profile Banner" width="800" height="200"/>
+</p>
 
 # Hi there, I'm Eliya! 👋  
 
