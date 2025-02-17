@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/C5612AQFhHiNiAlhKUw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1540287996281?e=2147483647&v=beta&t=6wNzBe0pqEKiVlryJvrZqeRGoLwUFxQiT95-1krWwn0" alt="Profile Banner" width="100%" />
+
 # Hi there, I'm Eliya! 👋  
 
 ### 🚀 About Me  
@@ -18,6 +20,12 @@
 🔹 **[Appium Test Automation](https://github.com/testsquadco/appium-test-automation)** – Mobile test automation framework for Android & iOS  
 🔹 **[WebdriverIO + Appium](https://github.com/testsquadco/ts-wdio-automation)** – Mobile automation framework using WDIO & Appium  
 🔹 **[Selenium + Cucumber](https://github.com/testsquadco/ts-selenium-testing/tree/main)** – Web automation framework using Selenium & Cucumber 
+
+### 📖 Articles & Insights  
+🔹 [WCAG: Ensuring Web Accessibility Through Software Testing](https://www.linkedin.com/pulse/wcag-ensuring-web-accessibility-through-software-testing-eliya-hasan-lrrke/)  
+🔹 [Rethinking Self-Healing in Test Automation](https://www.linkedin.com/pulse/rethinking-self-healing-test-automation-eliya-hasan-uutxe/)  
+🔹 [Embracing AI in Software Testing: Navigating the Evolution](https://www.linkedin.com/pulse/embracing-ai-software-testing-navigating-evolution-eliya-hasan/)  
+🔹 [Continuous Testing: None or Done](https://www.linkedin.com/pulse/continuous-testing-none-done-eliya-ghaznavi/)  
 
 ### 🌱 Currently Learning  
 - Expanding my expertise in **AI-driven Test Automation**  
