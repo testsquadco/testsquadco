@@ -23,9 +23,7 @@
 - Enabling **startups to market quality products**  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eliyahasan/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/testsquadco)  
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01a82d807f0ea292c4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eliyahasan/)  | [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/testsquadco)  | [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01a82d807f0ea292c4)
 
 
 ---
