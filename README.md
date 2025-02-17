@@ -17,6 +17,7 @@
 🔹 **[Playwright & TypeScript for Web & API Testing](https://github.com/testsquadco/ts-playwright-testing)** – A scalable automation framework for web and API testing  
 🔹 **[Appium Test Automation](https://github.com/testsquadco/appium-test-automation)** – Mobile test automation framework for Android & iOS  
 🔹 **[WebdriverIO + Appium](https://github.com/testsquadco/ts-wdio-automation)** – Mobile automation framework using WDIO & Appium  
+🔹 **[Selenium + Cucumber](https://github.com/testsquadco/ts-selenium-testing/tree/main)** – Web automation framework using Selenium & Cucumber 
 
 ### 🌱 Currently Learning  
 - Expanding my expertise in **AI-driven Test Automation**  
