@@ -7,10 +7,10 @@
 - 📖 Always learning and exploring new technologies in the **testing ecosystem**  
 
 ### 🧰 Tech Stack  
-- **Languages:** JavaScript, TypeScript, Java  
-- **Automation Frameworks:** Playwright, Cypress, Selenium, Detox, Appium, WDIO, Galen  
-- **CI/CD Tools:** GitHub Actions, Jenkins, GitLab CI/CD  
-- **Other Tools:** Allure Reports, ExtentReports, Jest, Cucumber, Postman, JMeter 
+- **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellowgreen?style=plastic) ![TypeScript](https://img.shields.io/badge/TypeScript-4.4-blue?style=plastic) ![Java](https://img.shields.io/badge/Java-8-red?style=plastic) 
+- **Automation Frameworks:** ![Playwright](https://img.shields.io/badge/Playwright-v1.30-green?style=plastic) ![Cypress](https://img.shields.io/badge/Cypress-v12.0.0-058a5e?style=plastic) ![Selenium](https://img.shields.io/badge/Selenium-4.0-orange?style=plastic) ![Detox](https://img.shields.io/badge/Detox-v17.0.0-ff69b4?style=plastic) ![Appium](https://img.shields.io/badge/Appium-v2.0-green?style=plastic) ![WDIO](https://img.shields.io/badge/WebDriverIO-v7.0.0-000?style=plastic)  
+- **CI/CD Tools:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Workflow-black?style=plastic) ![Jenkins](https://img.shields.io/badge/Jenkins-CI-red?style=plastic) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-Integrated-orange?style=plastic)  
+- **Other Tools:** ![Allure Reports](https://img.shields.io/badge/Allure_Reports-Powered-blue?style=plastic) ![ExtentReports](https://img.shields.io/badge/ExtentReports-Enhanced-green?style=plastic) ![Jest](https://img.shields.io/badge/Jest-Testing-red?style=plastic) ![Cucumber](https://img.shields.io/badge/Cucumber-BDD-orange?style=plastic) ![Postman](https://img.shields.io/badge/Postman-API_Testing-blueviolet?style=plastic) ![JMeter](https://img.shields.io/badge/JMeter-Performance-yellow?style=plastic) 
 
 ### 📌 Featured Projects  
 🔹 **[Visual Testing Framework (Galen + TypeScript)](https://github.com/testsquadco/ts-galen-testing)** – Automated visual layout testing with Galen  
