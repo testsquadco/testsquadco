@@ -1,4 +1,4 @@
-# Hi there, I'm Praveen! 👋  
+# Hi there, I'm Eliya! 👋  
 
 ### 🚀 About Me  
 - 💻 **Software Tester | Test Automation Engineer | Founder - TestSquad**  
