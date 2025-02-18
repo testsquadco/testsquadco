@@ -17,6 +17,7 @@
 - **Other Tools:** ![Allure Reports](https://img.shields.io/badge/Allure_Reports-Powered-blue?style=plastic) ![ExtentReports](https://img.shields.io/badge/ExtentReports-Enhanced-green?style=plastic) ![Jest](https://img.shields.io/badge/Jest-Testing-red?style=plastic) ![Cucumber](https://img.shields.io/badge/Cucumber-BDD-orange?style=plastic) ![Postman](https://img.shields.io/badge/Postman-API_Testing-blueviolet?style=plastic) ![JMeter](https://img.shields.io/badge/JMeter-Performance-yellow?style=plastic) 
 
 ### Featured Projects  
+🔹 **[Botium Chatbot Testing Framework](https://github.com/testsquadco/ts-chatbot-testing)** – Proof-of-Concept for testing chatbots using Botium  
 🔹 **[Self-Healing Test Automation PoC (Cypress + JavaScript)](https://github.com/testsquadco/ts-selfhealing-cypress)** – self-healing automation framework using Cypress  
 🔹 **[Visual Testing Framework (Galen + TypeScript)](https://github.com/testsquadco/ts-galen-testing)** – Automated visual layout testing with Galen  
 🔹 **[Playwright & TypeScript for Web & API Testing](https://github.com/testsquadco/ts-playwright-testing)** – A scalable automation framework for web and API testing  
